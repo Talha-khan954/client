@@ -13,7 +13,8 @@
 
 #Secret
 .env
-  apiKey: "AIzaSyDLofoC6N_oTXTtudOR3A49fa2ykHfXZ3A",
+
+ apiKey: "AIzaSyDLofoC6N_oTXTtudOR3A49fa2ykHfXZ3A",
   authDomain: "blogapp-5f245.firebaseapp.com",
   projectId: "blogapp-5f245",
   storageBucket: "blogapp-5f245.appspot.com",
